@@ -32,7 +32,7 @@ Build the application or use the [fat jar], then run
 ```
 The application runs on port 8080
 
-##To Run the application please follow :
+## To Run the application on Docker please follow :
 
 1. From the root folder run ‘mvn clean install’
 2. Then run, ‘docker build -t revolut .’
